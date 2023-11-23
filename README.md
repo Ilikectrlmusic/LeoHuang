@@ -15,83 +15,159 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: "peasoft-12|@Hope_Net-join-us-on-Telegram #2", server: ophelia.mom, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
-  - {name: mahdibland-🏁RELAY-172.67.229.25-1323, server: join4.vmessprotocol.sbs, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca6.tehme100.fun}}, udp: true}
+  - {name: peasoft-12|加拿大 099, server: waynn.makeup, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: waynn.makeup}}, udp: true}
+  - {name: "peasoft-12|VPN招代理电报联系@xiaoying229 #3", server: 45.155.249.17, port: 80, type: vmess, uuid: 9fd713f3-0896-4d67-8a97-038b388ee017, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 45.155.249.17}}, udp: true}
+  - {name: peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5, server: 172.67.229.16, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
+  - {name: peasoft-12|加拿大 356, server: 172.67.183.110, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: waynn.makeup}}, udp: true}
+  - {name: peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91...., server: 104.21.91.254, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: waynn.makeup, network: ws, ws-opts: {path: linkvws, headers: {Host: waynn.makeup}}, udp: true}
+  - {name: peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21...., server: 104.21.21.88, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: odelia.autos, network: ws, ws-opts: {path: linkvws, headers: {Host: odelia.autos}}, udp: true}
+  - {name: peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247...., server: 129.146.247.135, port: 42598, type: vmess, uuid: 1773b226-0bdb-43c5-87d8-270d26211dda, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+  - {name: peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133...., server: 129.146.133.157, port: 51009, type: vmess, uuid: 81714cef-9bde-4a08-aa50-d6bc0172d78b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
   - {name: "peasoft-12|VPN招代理电报联系@xiaoying229 #1", server: 172.67.229.30, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
   - {name: peasoft-12|⬇️8@oneclickvpnkeys, server: octavi.cfd, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: octavi.cfd, network: ws, ws-opts: {path: linkvws, headers: {Host: octavi.cfd}}, udp: true}
+  - {name: peasoft-12|加拿大 050, server: 172.67.229.33, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca6.tehme100.fun}}, udp: true}
+  - {name: peasoft-12|加拿大 310, server: 172.67.68.136, port: 80, type: vmess, uuid: 08b2ceb1-5917-42da-b02c-0f942754aac6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.iiio.wiki}}, udp: true}
+  - {name: "peasoft-12|@Hope_Net-join-us-on-Telegram #1", server: 104.18.213.12, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sub.xn--9kq89d4y0g.top, network: ws, ws-opts: {path: /octavi.cfd:443/linkvws, headers: {Host: sub.xn--9kq89d4y0g.top}}, udp: true}
+  - {name: mahdibland-🏁RELAY-172.67.207.114-1383, server: 30.vmessprotocol.telegram-vmessprotocol-channel.space, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
+  - {name: "peasoft-12|@Hope_Net-join-us-on-Telegram #2", server: ophelia.mom, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
+  - {name: "peasoft-0,3,6|🇨🇦_CA_加拿大", server: 23.227.39.84, port: 8080, type: vmess, uuid: 969f1909-c0d3-4c30-813d-3aec5c838b7d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /1IKYjV0r/, headers: {Host: dongtaiwang13.dtku47.xyz}}, udp: true}
+  - {name: peasoft-12|荷兰 013, server: 188.114.99.0, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
+  - {name: peasoft-12|加拿大 063, server: api.jquery.com, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /octavi.cfd:443/linkvws, headers: {Host: sub.xn--9kq89d4y0g.top}}, udp: true}
+  - {name: peasoft-12|加拿大 077, server: 172.67.229.25, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
+  - {name: peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193...., server: 212.64.193.50, port: 37272, type: vmess, uuid: b31c2a7f-3ab7-4fc1-b0ec-4fbbd11d5065, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 212.64.193.50}}, udp: true}
+  - {name: peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8..., server: 5.42.76.106, port: 80, type: vmess, uuid: ef463b12-ecad-4d7c-8275-251b70cdcab4, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, servername: upu.nishbakh.site, network: ws, ws-opts: {path: /W3w2VxnCmCM7GnEyucNS, headers: {Host: 5.42.76.106}}, udp: true}
+  - {name: peasoft-12|VPN招代理电报联系@xiaoying229, server: 172.67.229.12, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
+  - {name: mahdibland-🏁RELAY-172.67.229.25-1323, server: join4.vmessprotocol.sbs, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca6.tehme100.fun}}, udp: true}
+  - {name: peasoft-12|🇺🇸|US|美国|@wxgqlfx|67, server: cloudconeaaa.gorgorchicken.one, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: cloudconeaaa.gorgorchicken.one, network: ws, ws-opts: {path: /cloudconeaaa, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
+  - {name: peasoft-12|关注电报https://t.me/aifenxiang202..., server: 172.67.229.29, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
   - {name: peasoft-12|加拿大 101, server: alvvin.click, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: alvvin.click}}, udp: true}
   - {name: peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24..., server: 172.67.229.24, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
-  - {name: peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91...., server: 104.21.91.254, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: waynn.makeup, network: ws, ws-opts: {path: linkvws, headers: {Host: waynn.makeup}}, udp: true}
-  - {name: peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5, server: 172.67.229.16, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
-  - {name: peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21...., server: 104.21.21.88, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: odelia.autos, network: ws, ws-opts: {path: linkvws, headers: {Host: odelia.autos}}, udp: true}
-  - {name: "peasoft-0,3,6|🇨🇦_CA_加拿大", server: 23.227.39.84, port: 8080, type: vmess, uuid: 969f1909-c0d3-4c30-813d-3aec5c838b7d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /1IKYjV0r/, headers: {Host: dongtaiwang13.dtku47.xyz}}, udp: true}
-  - {name: peasoft-12|🇺🇸|US|美国|@wxgqlfx|67, server: cloudconeaaa.gorgorchicken.one, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: cloudconeaaa.gorgorchicken.one, network: ws, ws-opts: {path: /cloudconeaaa, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
-  - {name: peasoft-12|加拿大 356, server: 172.67.183.110, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: waynn.makeup}}, udp: true}
-  - {name: peasoft-12|加拿大 063, server: api.jquery.com, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /octavi.cfd:443/linkvws, headers: {Host: sub.xn--9kq89d4y0g.top}}, udp: true}
-  - {name: peasoft-12|VPN招代理电报联系@xiaoying229, server: 172.67.229.12, port: 2095, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr4.v2-teh.fun}}, udp: true}
+  - {name: peasoft-12|1_394, server: 162.251.62.115, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
   - {name: peasoft-12|加拿大 040, server: 172.67.184.53, port: 8443, type: vmess, uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cloudconebbb, headers: {Host: cloudconebbb.gorgorchicken.one}}, udp: true}
+  - {name: peasoft-12|加拿大 081, server: 104.27.97.42, port: 8443, type: vmess, uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cloudconebbb, headers: {Host: cloudconebbb.gorgorchicken.one}}, udp: true}
+  - {name: peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1..., server: 37.120.193.102, port: 52920, type: vmess, uuid: 57170ff0-7180-4664-8f61-8debdda345f7, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+  - {name: "peasoft-12|@Hope_Net-join-us-on-Telegram #3", server: www.unpkg.com, port: 443, type: vmess, uuid: 1f1aa854-f237-4c00-adf1-803df276ce65, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: zUla.eSMaIlkOrEa.sHOp, network: ws, ws-opts: {path: /, headers: {Host: zUla.eSMaIlkOrEa.sHOp}}, udp: true}
+  - {name: peasoft-12|1_417, server: 130.61.111.167, port: 21872, type: vmess, uuid: 9a7a75d4-ab7e-4ba0-bbfa-a4acddc18084, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+  - {name: peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21..., server: 198.57.27.212, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -110,21 +186,40 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -135,62 +230,119 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -206,21 +358,40 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
-      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|加拿大 099
+      - "peasoft-12|VPN招代理电报联系@xiaoying229 #3"
+      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
+      - peasoft-12|加拿大 356
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
+      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.247....
+      - peasoft-12|🔒 VM-TCP-NA 🇺🇸 US-129.146.133....
       - "peasoft-12|VPN招代理电报联系@xiaoying229 #1"
       - peasoft-12|⬇️8@oneclickvpnkeys
+      - peasoft-12|加拿大 050
+      - peasoft-12|加拿大 310
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #1"
+      - mahdibland-🏁RELAY-172.67.207.114-1383
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #2"
+      - peasoft-0,3,6|🇨🇦_CA_加拿大
+      - peasoft-12|荷兰 013
+      - peasoft-12|加拿大 063
+      - peasoft-12|加拿大 077
+      - peasoft-12|🔒 VM-WS-NONE 🇹🇷 TR-212.64.193....
+      - peasoft-12|🔒 VM-WS-NA 🇸🇪 SE-5.42.76.106:8...
+      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - mahdibland-🏁RELAY-172.67.229.25-1323
+      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
+      - peasoft-12|关注电报https://t.me/aifenxiang202...
       - peasoft-12|加拿大 101
       - peasoft-12|🔒 VM-WS-NA 🇺🇸 US-172.67.229.24...
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.91....
-      - peasoft-12|🇺🇸 _US_美国->🇫🇷_FR_法国 5
-      - peasoft-12|🔒 VM-WS-TLS 🏴‍☠️ NA-104.21.21....
-      - peasoft-0,3,6|🇨🇦_CA_加拿大
-      - peasoft-12|🇺🇸|US|美国|@wxgqlfx|67
-      - peasoft-12|加拿大 356
-      - peasoft-12|加拿大 063
-      - peasoft-12|VPN招代理电报联系@xiaoying229
+      - peasoft-12|1_394
       - peasoft-12|加拿大 040
+      - peasoft-12|加拿大 081
+      - peasoft-12|🔒 VM-TCP-NA 🇷🇸 RS-37.120.193.1...
+      - "peasoft-12|@Hope_Net-join-us-on-Telegram #3"
+      - peasoft-12|1_417
+      - peasoft-12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
